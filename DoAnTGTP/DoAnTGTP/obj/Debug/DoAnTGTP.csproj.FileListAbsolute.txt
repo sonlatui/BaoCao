@@ -1,0 +1,6 @@
+C:\Users\Son\Documents\Visual Studio 2010\Projects\WSProject\DoAnTGTP\DoAnTGTP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Son\Documents\Visual Studio 2010\Projects\WSProject\DoAnTGTP\DoAnTGTP\bin\Debug\DoAnTGTP.dll.config
+C:\Users\Son\Documents\Visual Studio 2010\Projects\WSProject\DoAnTGTP\DoAnTGTP\bin\Debug\DoAnTGTP.dll
+C:\Users\Son\Documents\Visual Studio 2010\Projects\WSProject\DoAnTGTP\DoAnTGTP\bin\Debug\DoAnTGTP.pdb
+C:\Users\Son\Documents\Visual Studio 2010\Projects\WSProject\DoAnTGTP\DoAnTGTP\obj\Debug\DoAnTGTP.dll
+C:\Users\Son\Documents\Visual Studio 2010\Projects\WSProject\DoAnTGTP\DoAnTGTP\obj\Debug\DoAnTGTP.pdb
